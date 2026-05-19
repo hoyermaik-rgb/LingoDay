@@ -1,0 +1,6 @@
+{
+  "name": "LingoDay",
+  "description": "Lerne jeden Tag 5 neue englische Vokabeln mit KI-Unterstützung und interaktiven Übungen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
